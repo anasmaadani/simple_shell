@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * the_handle_signs2sss - redding of signaslings
+ * the_handle_signs2 - redding of signaslings.
  * @n_signal: signalings
  * Return: emty functionss
  */
@@ -15,7 +15,7 @@ void the_handle_signs2(int n_signal)
 /**
  * main - starting spoint of shesll.
  *@argumnetC: argumnet numbre
- * @argumnetVss: arg
+ * @argumnetV: arg vss one.
  * Return: exitisng codes.
  */
 
